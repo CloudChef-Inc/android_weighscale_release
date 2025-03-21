@@ -2,5 +2,8 @@
     "latestVersion": "2.0.0",
     "latestVersionCode": "11",
     "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.0-11-staging/CloudChef.apk",
-    "releaseNotes": ["Test update"]
+    "releaseNotes": [
+      "- Testing update",
+      "- Added updated ui"
+    ]
 }
