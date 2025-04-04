@@ -1,6 +1,6 @@
 {
-    "latestVersion": "2.0.1",
-    "latestVersionCode": "12",
+    "latestVersion": "1.0.0",
+    "latestVersionCode": "9",
     "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.1-12-staging/CloudChef.apk",
     "releaseNotes": [
       "- Fix cook steps error",
