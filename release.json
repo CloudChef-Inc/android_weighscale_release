@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.0.1",
+  "latestVersion": "1.0.1",
   "latestVersionCode": "2",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.0-2/CloudChef.apk",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.0.1-2/CloudChef.apk",
   "releaseNotes": [
-    "Add scale network message on homescreen"
+    "run mqqt on main thread","fix accidental task done trigger"
   ]
 }
