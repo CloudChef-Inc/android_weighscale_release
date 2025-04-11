@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.1",
-  "latestVersionCode": "5",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.1.1-5/CloudChef.apk",
+  "latestVersion": "1.1.2",
+  "latestVersionCode": "6",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.1.2-6/CloudChef.apk",
   "releaseNotes": [
-    "Fixed ESP message translator"
+    "Fixed camera startup glitch ","Fixed network message"
   ]
 }
