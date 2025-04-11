@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.0",
-  "latestVersionCode": "4",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.1.0-4/CloudChef.apk",
+  "latestVersion": "1.1.1",
+  "latestVersionCode": "5",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.1.1-5/CloudChef.apk",
   "releaseNotes": [
-    "Fixed flaky app Installation error","Fixed camera startup issues"
+    "Fixed ESP message translator"
   ]
 }
