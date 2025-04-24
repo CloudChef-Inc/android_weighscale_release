@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.3",
-  "latestVersionCode": "7",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.1.3-7/CloudChef.apk",
+  "latestVersion": "1.1.4",
+  "latestVersionCode": "8",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v1.1.4-8/CloudChef.apk",
   "releaseNotes": [
-    "Add check update button"
+    "Update camera to the latest version"," Cleaner camera reactivation"
   ]
 }
