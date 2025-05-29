@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.0.2",
-  "latestVersionCode": "12",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.2-12/CloudChef.apk",
+  "latestVersion": "2.0.3",
+  "latestVersionCode": "13",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.3-13/CloudChef.apk",
   "releaseNotes": [
-    "Crash Logging Improvements"
+    "Fixed rare crash on memory allocation."
   ]
 }
