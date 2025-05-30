@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.0.5",
-  "latestVersionCode": "15",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.5-15/CloudChef.apk",
+  "latestVersion": "2.0.6",
+  "latestVersionCode": "16",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v2.0.6-16/CloudChef.apk",
   "releaseNotes": [
-    "Fix crash."
+    "Fixed barcode scan."
   ]
 }
