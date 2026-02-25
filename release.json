@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.0.1",
-  "latestVersionCode": "22",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.1-22/CloudChef.apk",
+  "latestVersion": "3.0.1",
+  "latestVersionCode": "18",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v3.0.1-18/CloudChef.apk",
   "releaseNotes": [
-    "Barcode Improvement"
+    "Fix barcode scan issue"
   ]
 }
