@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.0.0",
-  "latestVersionCode": "21",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.0-21/CloudChef.apk",
+  "latestVersion": "4.0.1",
+  "latestVersionCode": "22",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.1-22/CloudChef.apk",
   "releaseNotes": [
-    "Fixed Camera Issue "
+    "Barcode Improvement"
   ]
 }
