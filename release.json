@@ -1,8 +1,8 @@
 {
-  "latestVersion": "3.0.3",
-  "latestVersionCode": "20",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v3.0.3-20/CloudChef.apk",
+  "latestVersion": "4.0.0",
+  "latestVersionCode": "21",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.0-21/CloudChef.apk",
   "releaseNotes": [
-    "BLE connection indicator "," Feautre enhancment: barcode stabilization"
+    "Fixed Camera Issue "
   ]
 }
