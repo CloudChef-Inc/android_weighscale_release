@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.0.3",
-  "latestVersionCode": "24",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.3-24/CloudChef.apk",
+  "latestVersion": "4.0.4",
+  "latestVersionCode": "25",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.4-25/CloudChef.apk",
   "releaseNotes": [
-    "Added new feature","Fixed bugs"
+    "Fix ble commands"
   ]
 }
