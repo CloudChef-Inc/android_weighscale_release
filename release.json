@@ -3,6 +3,7 @@
   "latestVersionCode": "28",
   "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v5.0.1-28/CloudChef.apk",
   "releaseNotes": [
-    "Fix api key for CI"
+    "Fix prod key for scanddit CI | Added proper error info for scandit camera error bug."
+    
   ]
 }
