@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.0.5",
-  "latestVersionCode": "26",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v4.0.5-26/CloudChef.apk",
+  "latestVersion": "5.0.0",
+  "latestVersionCode": "27",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v5.0.0-27/CloudChef.apk",
   "releaseNotes": [
-    "Add BLE disconnection message "," Bump scandit api to latest version"
+    "Fix scandit camera bug "," Add more detailed error message for scandit camera "," Update BLE disconnection message ui"
   ]
 }
