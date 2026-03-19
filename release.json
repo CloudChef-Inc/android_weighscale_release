@@ -1,9 +1,8 @@
 {
-  "latestVersion": "5.0.1",
-  "latestVersionCode": "28",
-  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v5.0.1-28/CloudChef.apk",
+  "latestVersion": "5.1.1",
+  "latestVersionCode": "30",
+  "url": "https://github.com/CloudChef-Inc/android_weighscale_release/releases/download/v5.1.1-30/CloudChef.apk",
   "releaseNotes": [
-    "Fix prod key for scanddit CI | Added proper error info for scandit camera error bug."
-    
+    "Fix MQQT "," Add Calibration feature "," Fix bluethoot popup"
   ]
 }
